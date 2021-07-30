@@ -1,0 +1,17 @@
+
+
+    wget -O run.sh https://raw.githubusercontent.com/LAW-1337/Windows11_RDP/main/run.sh
+
+    chmod +x run.sh
+
+    ./run.sh
+
+    Now login (or create an account) on https://ngrok.com/
+
+    And copy your token here: https://dashboard.ngrok.com/get-started/your-authtoken
+
+    Paste your ngrok token in the terminal.
+
+    Then after the build it will give you the credentials of rdp.
+
+    You can now login using User and Password.
